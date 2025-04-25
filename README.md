@@ -1,5 +1,5 @@
-<h1 align="center">Mission statement: On the road to machine learning!</h1>
-<h3 align="center"> Certified Cloud Practitioner | SaaS Expert | Bachelor of Science, Econ.</h3>
+<h1 align="center">On the road to machine learning!</h1>
+
 
 - 🌱 I’m currently learning **Java, Python, SFDC, Spanish**
 
