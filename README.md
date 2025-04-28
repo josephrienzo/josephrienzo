@@ -1,5 +1,6 @@
-<h1 align="center">MissioOn the road to machine learning!</h1>
-- 🌱 I’m currently learning: **Java, SFDC, Spanish**
+<h1 align="center">On the road to machine learning!</h1>
+
+- 🌱 I’m currently learning: **Java, Pytorch, SFDC, Spanish**
 
 - 💬 Ask me about: **My freelance data science projects with real clients!**
 
