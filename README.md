@@ -1,4 +1,4 @@
-<h1 align="center">On the road to machine learning!</h1>
+<h1 align="center">On the road to Machine Learning!</h1>
 
 - 🌱 I’m currently learning: **Java, Pytorch, SFDC, Spanish**
 
